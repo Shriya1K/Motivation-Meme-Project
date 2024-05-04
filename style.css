@@ -9,6 +9,7 @@ body{
   #box1{
     width: 50%;
     margin-left: 20%;
+    margin-top:100px;
     font-family: "Libre Baskerville", serif;
     text-align: center;
   }
